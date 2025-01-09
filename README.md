@@ -1,0 +1,1 @@
+This repository demonstrates a common but easily overlooked error in Python: forgetting to close files properly.  The `bug.py` file shows the problematic code, which fails to close a file handle in the case of an exception.  `bugSolution.py` provides the corrected version.
